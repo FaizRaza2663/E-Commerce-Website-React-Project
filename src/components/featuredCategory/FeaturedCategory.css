@@ -1,0 +1,16 @@
+.Category-card{
+    width: 20%;
+    height: 130px;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    background-color: rgba(209, 208, 208, 0.648);
+
+}
+.F-pro-card{
+    display: flex;
+    gap: 3%;
+}

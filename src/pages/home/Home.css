@@ -1,0 +1,9 @@
+.main-home{
+    display: flex;
+    justify-content: center;
+    
+}
+.home{
+    width: 90%;
+    
+}

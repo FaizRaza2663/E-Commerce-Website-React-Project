@@ -1,0 +1,40 @@
+.main-container{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.main-container img {
+    width: 200px;
+    height: 150px;
+    background-size: contain;
+    
+}
+.cards-parrent{
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 20px;
+    width: 100%;
+    
+    /* flex-wrap: wrap; */
+    /* justify-content: space-evenly; */
+    /* align-items: center; */
+}
+.category-card p {
+    font-size: 30px;
+}
+.category-icon{
+    width: 40px;
+    height: 40px;
+}
+.category-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
